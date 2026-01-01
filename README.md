@@ -33,6 +33,7 @@ This wiki contains everything caregivers need to know about daily routines, medi
 |------|-------------|
 | [Job Description](docs/employment/job-description.md) | Responsibilities, pay, rules |
 | [Employee Handbook](docs/employment/employee-handbook.md) | Guidelines and expectations |
+| [Wanted Ads](docs/employment/wanted-ads.md) | Job postings and recruiting materials |
 
 ### Medical Care
 
@@ -43,6 +44,7 @@ This wiki contains everything caregivers need to know about daily routines, medi
 | [Medical Equipment](docs/medical/equipment.md) | Ventilator, suction, mobility equipment |
 | [Catheter Care](docs/medical/catheter.md) | External catheter system |
 | [Supplies Reordering](docs/medical/supplies-reordering.md) | Suppliers, phone numbers, order schedules |
+| [Insurance Information](docs/medical/insurance-information.md) | Coverage details, member IDs, contacts |
 
 ### Household
 
@@ -79,7 +81,6 @@ This wiki contains everything caregivers need to know about daily routines, medi
 
 | Contact | Phone |
 |---------|-------|
-| Primary Care (Dr. McLellan) | (970) 495-8800 |
 | Neurologist (Dr. Dixon) | (720) 848-2080 |
 | Pulmonologist (Dr. Sippel) | (720) 848-4400 |
 | Loveland Police | (970) 667-2151 |

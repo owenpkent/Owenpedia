@@ -12,6 +12,16 @@
 *.pdf
 
 # ===================
+# Private/Sensitive Files
+# ===================
+
+# Insurance cards and sensitive documents
+private/
+*.jpg
+*.jpeg
+*.png
+
+# ===================
 # Python
 # ===================
 __pycache__/

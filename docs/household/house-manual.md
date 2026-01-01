@@ -62,7 +62,6 @@
 
 | Role | Doctor | Phone |
 |------|--------|-------|
-| Primary Care | Molly L McLellan, DO | (970) 495-8800 |
 | Neurologist | Stacy Elaine Dixon, MD | (720) 848-2080 |
 | Pulmonologist | Jeffrey Mark Sippel, MD | (720) 848-4400 |
 
