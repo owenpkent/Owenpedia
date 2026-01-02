@@ -80,6 +80,8 @@ See [Supplies Reordering](./supplies-reordering.md) for supplier information.
 
 ## See Also
 
-- [Supplies Reordering](./supplies-reordering.md)
+- [Supplies Reordering](../supplies/supplies-reordering.md)
+- [Medical Equipment](../medical/equipment.md)
+- [Care Plan](../care/care-plan.md)
 - [House Manual](../household/house-manual.md) (for medical team contacts)
 - [Medications](./medications.md)

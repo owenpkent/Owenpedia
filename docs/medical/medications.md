@@ -8,17 +8,17 @@
 
 | Medication | Dosage | Notes |
 |------------|--------|-------|
-| Albuterol | 1 dose | Inhaler |
-| Zyrtec | 1 tablet | Allergy |
-| Flonase | 2 squeezes per nostril | Nasal spray |
-| Evrysdi | 6.6 mL | Via feeding tube, use orange syringe |
+| [Albuterol](./medications/albuterol.md) | 1 dose | Inhaler |
+| [Zyrtec](./medications/zyrtec.md) | 1 tablet | Allergy |
+| [Flonase](./medications/flonase.md) | 2 squeezes per nostril | Nasal spray |
+| [Evrysdi](./medications/evrysdi.md) | 6.6 mL | Via feeding tube, use orange syringe |
 
 ### Bedtime
 
 | Medication | Notes |
 |------------|-------|
-| Melatonin | Sleep aid |
-| Glyco | Given before bed |
+| [Melatonin](./medications/melatonin.md) | Sleep aid |
+| [Glycopyrrolate (Glyco)](./medications/glycopyrrolate.md) | Given before bed |
 
 ---
 

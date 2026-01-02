@@ -26,7 +26,7 @@
 
 | When | Task |
 |------|------|
-| 1st of month | New [catheter](../medical/catheter.md) tube |
+| 1st of month | New [catheter](../medical/equipment/catheter.md) tube |
 | First Sunday | Haircut |
 
 ---
@@ -65,4 +65,4 @@
 
 - [End of Shift Checklist](../daily-routines/end-of-shift-checklist.md)
 - [House Manual](./house-manual.md)
-- [Supplies Reordering](../medical/supplies-reordering.md)
+- [Supplies Reordering](../supplies/supplies-reordering.md)

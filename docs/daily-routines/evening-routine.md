@@ -58,7 +58,9 @@ At approximately 9:30 PM, begin the [Bedtime Routine](./bedtime-routine.md).
 
 ## See Also
 
+- [Daily Care Guide](../care/daily-care-guide.md) - Complete detailed routine
 - [Morning Routine](./morning-routine.md)
 - [Bedtime Routine](./bedtime-routine.md)
+- [Care Plan](../care/care-plan.md)
 - [Chores Schedule](../household/chores.md)
 - [Recipes](../recipes/index.md)

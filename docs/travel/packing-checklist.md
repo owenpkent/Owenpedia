@@ -138,6 +138,6 @@
 ## See Also
 
 - [Medical Equipment](../medical/equipment.md)
-- [Feeding Guide](../medical/feeding.md)
-- [Medications](../medical/medications.md)
+- [Feeding Guide](../insurance/insurance-information.md)
+- [Medications](../insurance/insurance-information.md)
 - [Supplies Reordering](../medical/supplies-reordering.md)

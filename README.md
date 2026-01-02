@@ -17,7 +17,18 @@ This wiki contains everything caregivers need to know about daily routines, medi
 
 ## 📚 Wiki Contents
 
-### Daily Routines
+### Care Guides (Start Here!)
+
+| Page | Description |
+|------|-------------|
+| [Care Documentation](docs/care/README.md) | Overview of all care guides |
+| [Morning Shift Guide](docs/care/morning-shift-guide.md) | Complete 7am-12pm shift procedures |
+| [Evening Shift Guide](docs/care/evening-shift-guide.md) | Complete 5pm-10pm + overnight procedures |
+| [Care Plan](docs/care/care-plan.md) | Overview of care requirements and shift structure |
+| [Transparency of Care](docs/care/transparency-of-care.md) | Communication standards and expectations |
+| [Household Checklists](docs/care/household-checklists.md) | Daily, weekly, monthly tasks |
+
+### Daily Routines (Quick Reference)
 
 | Page | Description |
 |------|-------------|
@@ -90,7 +101,8 @@ This wiki contains everything caregivers need to know about daily routines, medi
 
 ## 🔧 For Developers / AI Assistants
 
-See [LLM_ONBOARDING.md](LLM_ONBOARDING.md) for technical context about this repository.
+- [LLM_ONBOARDING.md](LLM_ONBOARDING.md) - Technical context about this repository
+- [IMPROVEMENT_RECOMMENDATIONS.md](IMPROVEMENT_RECOMMENDATIONS.md) - Ideas for enhancing the documentation
 
 ---
 

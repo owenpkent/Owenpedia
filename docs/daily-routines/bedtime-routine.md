@@ -49,7 +49,7 @@ Use toothbrush and toothpaste. Toothbrush should be charging when not in use.
 
 1. Use sling and lift to get Owen into bed
 2. Remove clothes
-3. Remove [catheter](../medical/catheter.md)
+3. Remove [catheter](../medical/equipment/catheter.md)
 4. Discard "condom" catheter
 5. Rinse longer catheter tube with warm water
 6. Hang in shower to dry overnight
@@ -110,6 +110,8 @@ Make sure both monitors are on and linked:
 
 ## See Also
 
+- [Daily Care Guide](../care/daily-care-guide.md) - Complete detailed routine
 - [Night/Sleep Routine](./night-routine.md)
 - [Morning Routine](./morning-routine.md)
+- [Care Plan](../care/care-plan.md)
 - [Medical Equipment](../medical/equipment.md)

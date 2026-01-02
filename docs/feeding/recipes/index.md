@@ -112,5 +112,5 @@ Owen enjoys good food! He usually eats about a cup of food per evening. He likes
 
 ## See Also
 
-- [Evening Routine](../daily-routines/evening-routine.md)
-- [Feeding Guide](../medical/feeding.md)
+- [Evening Routine](../../daily-routines/evening-routine.md)
+- [Feeding Guide](../feeding.md)

@@ -70,7 +70,8 @@ Order on the **30th of each month:**
 
 ## See Also
 
-- [Morning Routine](../daily-routines/morning-routine.md)
-- [Bedtime Routine](../daily-routines/bedtime-routine.md)
-- [Supplies Reordering](./supplies-reordering.md)
-- [Chores Schedule](../household/chores.md)
+- [Morning Routine](../../daily-routines/morning-routine.md)
+- [Bedtime Routine](../../daily-routines/bedtime-routine.md)
+- [Supplies Reordering](../supplies-reordering.md)
+- [Chores Schedule](../../household/chores.md)
+- [Equipment Overview](../equipment.md)

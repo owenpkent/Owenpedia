@@ -1,0 +1,10 @@
+# Insurance card images - keep private
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.gif
+
+# Allow README
+!README.md
+!insurance-information.md

@@ -8,10 +8,10 @@ Allow approximately 2 hours to complete Owen's morning routine. Owen will talk y
 
 ## Quick Start
 
-1. Give Owen syringe of [Kate Farms](../medical/feeding.md) food and water
-2. Turn off breathing machines (see [Medical Equipment](../medical/equipment.md))
+1. Give Owen syringe of [Kate Farms](../feeding/feeding.md) food and water
+2. Turn off breathing machines (see [Medical Equipment](../supplies/supplies-reordering.md))
 3. Transfer to shower → toilet → shower → bed → wheelchair
-4. Give medications and prepare [feeding formula](../medical/feeding.md)
+4. Give medications and prepare [feeding formula](../feeding/feeding.md)
 
 ---
 
@@ -21,7 +21,7 @@ Allow approximately 2 hours to complete Owen's morning routine. Owen will talk y
 
 - Open curtains near bed, close window
 - Turn on space heater
-- Attach [feeding tube](../medical/feeding.md) to Owen's stomach Mickey button *(make sure it is pinched closed!)*
+- Attach [feeding tube](../feeding/feeding.md) to Owen's stomach Mickey button *(make sure it is pinched closed!)*
 - Give 1 syringe of Kate Farms box food + 1 syringe of water
 - Detach feeding tube
 
@@ -58,7 +58,7 @@ Give the following:
 1. Transfer back to bed on top of a towel
 2. If comfortable, assist with men's health and wellness routine
 3. Sponge bath
-4. Put on [catheter](../medical/catheter.md)
+4. Put on [catheter](../medical/equipment/catheter.md)
 5. Get dressed (catheter tube goes down inside right leg of pants)
 
 ### Transfer to Wheelchair
@@ -72,7 +72,7 @@ Give the following:
 
 1. Reattach feeding tube to Owen's stomach Mickey button
 2. Give Owen **6.6 mL Evrysdi** (use orange syringe) through feeding tube, followed by a tall beaker of water
-3. Prepare [feeding formula](../medical/feeding.md):
+3. Prepare [feeding formula](../feeding/feeding.md):
    - 1 pouch Liquid Hope
    - 1 pouch water
    - 2 boxes Kate Farms
@@ -97,8 +97,10 @@ Give the following:
 
 ## See Also
 
+- [Daily Care Guide](../care/daily-care-guide.md) - Complete detailed routine
 - [Evening Routine](./evening-routine.md)
 - [Bedtime Routine](./bedtime-routine.md)
 - [End of Shift Checklist](./end-of-shift-checklist.md)
-- [Feeding Guide](../medical/feeding.md)
-- [Medical Equipment](../medical/equipment.md)
+- [Care Plan](../care/care-plan.md)
+- [Feeding Guide](../feeding/feeding.md)
+- [Medical Equipment](../supplies/supplies-reordering.md)

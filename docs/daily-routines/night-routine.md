@@ -34,6 +34,8 @@ He may wake up **1-5 times** during the night and need assistance with these thi
 
 ## See Also
 
+- [Daily Care Guide](../care/daily-care-guide.md) - Complete detailed routine
 - [Bedtime Routine](./bedtime-routine.md)
 - [Morning Routine](./morning-routine.md)
+- [Care Plan](../care/care-plan.md)
 - [Medical Equipment](../medical/equipment.md)

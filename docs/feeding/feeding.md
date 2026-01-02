@@ -96,5 +96,7 @@ See [Supplies Reordering](./supplies-reordering.md) for ordering information.
 
 - [Morning Routine](../daily-routines/morning-routine.md)
 - [Bedtime Routine](../daily-routines/bedtime-routine.md)
-- [Supplies Reordering](./supplies-reordering.md)
-- [Medical Equipment](./equipment.md)
+- [Supplies Reordering](../supplies/supplies-reordering.md)
+- [Medical Equipment](../medical/equipment.md)
+- [Medications](../medical/medications.md)
+- [Recipes](./recipes/index.md)

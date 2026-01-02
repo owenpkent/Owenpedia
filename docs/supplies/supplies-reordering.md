@@ -97,7 +97,8 @@
 
 ## See Also
 
-- [Feeding Guide](./feeding.md)
-- [Catheter Care](./catheter.md)
-- [Medical Equipment](./equipment.md)
+- [Feeding Guide](../feeding/feeding.md)
+- [Catheter Care](../medical/equipment/catheter.md)
+- [Medical Equipment](../medical/equipment.md)
+- [Insurance Information](../insurance/insurance-information.md)
 - [House Manual](../household/house-manual.md)

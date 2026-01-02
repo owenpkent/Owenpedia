@@ -71,6 +71,8 @@ _________________________________
 
 ## See Also
 
+- [Household Checklists](../care/household-checklists.md) - Complete daily/weekly/monthly lists
 - [Morning Routine](./morning-routine.md)
+- [Care Plan](../care/care-plan.md)
 - [Chores Schedule](../household/chores.md)
 - [House Manual](../household/house-manual.md)

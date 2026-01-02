@@ -1,84 +1,72 @@
 # Medical Equipment
 
-Overview of Owen's medical equipment and how to use it.
+Overview and index of Owen's medical equipment. Click on each item for detailed information.
 
 ---
 
 ## Breathing Equipment
 
-### Ventilator
-- **Location:** Left side of bed
-- **Purpose:** Assists breathing during sleep
+Essential respiratory support equipment used during sleep.
 
-### Humidifier
-- **Location:** Middle of bedside equipment
-- **Purpose:** Adds moisture to air from ventilator
-- **Settings:** "Low" (only one of three lights on)
-- **Maintenance:** Empty canister daily, leave to dry
+| Equipment | Purpose | Details |
+|-----------|---------|---------|
+| [Ventilator](./equipment/ventilator.md) | Assists breathing during sleep | Trilogy Ventilator - portable respiratory support |
+| [Humidifier](./equipment/humidifier.md) | Adds moisture to ventilator air | Set to "Low", empty daily |
+| [Oxygen Concentrator](./equipment/oxygen-concentrator.md) | Supplemental oxygen | Concentrates oxygen from ambient air |
+| [CPAP Mask](./equipment/cpap-mask.md) | Delivers air from ventilator | Clean nightly, replace every 3 months |
 
-### Oxygen Machine
-- **Location:** Right side of bed
-- **Purpose:** Supplemental oxygen
-
-### CPAP Mask
-- **Purpose:** Delivers air from ventilator system
-- **Cleaning:** Clean nose mask nightly
-- **Replacement:** New mask every 3 months
-
-### Turn-On Order (Bedtime)
-1. Ventilator (left)
-2. Humidifier (middle)
-3. Oxygen (right)
-
-### Turn-Off Order (Morning)
-1. Oxygen (right)
-2. Humidifier (middle)
-3. Ventilator (left)
+**Turn-On Order (Bedtime):** Ventilator → Humidifier → Oxygen  
+**Turn-Off Order (Morning):** Oxygen → Humidifier → Ventilator
 
 ---
 
-## Suction Machine
+## Suction Equipment
 
-- **Purpose:** Clears secretions from mouth/throat
-- **Use:** As Owen requests, especially at night
-
-### Maintenance
-- Keep canister empty or no more than half full
-- Keep water in hanging suction water bottle
-- Add splash of mouthwash to water to keep clean
-- Empty and rinse with warm water and soap daily
-- Can wash in dishwasher as needed
+| Equipment | Purpose | Details |
+|-----------|---------|---------|
+| [Suction Machine](./equipment/suction-machine.md) | Clears secretions from mouth/throat | Use as needed, especially at night |
 
 ---
 
 ## Mobility Equipment
 
-### Wheelchair
-- **Charging:** Plug in at night
-- **Controls:** Turn on and tilt back before transfers
+Equipment for safe transfers and mobility throughout the day.
 
-### Sling and Lift
-- **Purpose:** Transfers between bed, toilet, shower, wheelchair
-- **Battery:** Charge as needed
+| Equipment | Purpose | Details |
+|-----------|---------|---------|
+| [Wheelchair](./equipment/wheelchair.md) | Power mobility | Rovi A3 with lateral tilt, Aspen Seating |
+| [Lift Sling](./equipment/lift-sling.md) | Safe transfer support | Universal Mesh Sling with Head Support - Small |
+| [Patient Lift](./equipment/patient-lift.md) | Transfer system | Electric lift for bed/toilet/shower/wheelchair transfers |
+| [Shower Chair](./equipment/shower-chair.md) | Seated shower support | Used during morning shower routine |
 
-### Shower Chair
-- **Purpose:** Seated shower support
+**Safety:** Always use lift and sling for transfers. Never attempt manual transfers.
 
-### Robot Arm
-- **Power:** Turn off at bedtime
+---
+
+## Assistive Equipment
+
+| Equipment | Purpose | Details |
+|-----------|---------|---------|
+| [Robot Arm](./equipment/robot-arm.md) | Task assistance | Turn off at bedtime |
 
 ---
 
 ## Feeding Equipment
 
-See [Feeding Guide](./feeding.md) for detailed information.
+| Equipment | Purpose | Details |
+|-----------|---------|---------|
+| [Feeding Equipment](./equipment/feeding-equipment.md) | G-tube feeding system | Feeding machine, bag, Mickey button, tube |
 
-| Equipment | Purpose |
-|-----------|---------|
-| Feeding Machine | Pumps formula |
-| Feeding Bag | Holds formula |
-| Mickey Button | Stomach port |
-| Feeding Tube | Extension for Mickey button |
+See [Feeding Guide](../feeding/feeding.md) for complete feeding procedures.
+
+---
+
+## Personal Care Equipment
+
+| Equipment | Purpose | Details |
+|-----------|---------|---------|
+| [Catheter System](./equipment/catheter.md) | External catheter system | Daily application and removal, monthly replacement |
+| [Personal Care](./equipment/personal-care.md) | Wellness device | Hot Octopus - privacy and dignity maintained |
 
 ---
 
@@ -93,7 +81,8 @@ See [Feeding Guide](./feeding.md) for detailed information.
 
 ## See Also
 
+- [Care Plan](../care/care-plan.md)
+- [Daily Care Guide](../care/daily-care-guide.md)
 - [Feeding Guide](./feeding.md)
 - [Catheter Care](./catheter.md)
 - [Supplies Reordering](./supplies-reordering.md)
-- [Morning Routine](../daily-routines/morning-routine.md)
