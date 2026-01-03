@@ -18,18 +18,6 @@ Information for caregivers about job responsibilities, expectations, and workpla
 
 **Key Philosophy:** *"Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."*
 
-### [Job Description](./job-description.md)
-Detailed job responsibilities and requirements:
-- Position overview
-- Shift structures (morning and evening)
-- Daily responsibilities
-- Required qualifications
-- Compensation and benefits
-- Work environment
-
-### [Wanted Ads](./wanted-ads.md)
-Job postings and recruiting materials for hiring new caregivers.
-
 ---
 
 ## Quick Start for New Caregivers
